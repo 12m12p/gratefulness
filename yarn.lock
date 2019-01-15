@@ -11663,6 +11663,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-asap@^0.0.69:
+  version "0.0.69"
+  resolved "https://registry.yarnpkg.com/typeface-asap/-/typeface-asap-0.0.69.tgz#3f5590b52b46a8cea6600fd383cb2c2ba00cf302"
+  integrity sha512-OxLvnZTLPl4F8KVY2VaFMYBUj9yav8SRDiOQf8NF/IzmjMXBV1iAc7k1RzNTlFZ3/MstBvmUpsxB7a1V9ZL6Gg==
+
 typography-normalize@^0.16.18:
   version "0.16.18"
   resolved "https://registry.yarnpkg.com/typography-normalize/-/typography-normalize-0.16.18.tgz#19e8db32c6881d3745b7d67dc63ee6f6cfb681d1"

@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { ThemeProvider, theme } from 'util/style'
+import 'typeface-asap'
 
 import Header from 'components/Header'
 import { Container } from 'components/Grid'

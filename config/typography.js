@@ -6,6 +6,7 @@ const typography = new Typography({
   baseLineHeight: 1.45,
   /* Use the system font stack as fallback */
   headerFontFamily: [
+    'Asap',
     '-apple-system',
     'BlinkMacSystemFont',
     'Segoe UI',
@@ -18,6 +19,7 @@ const typography = new Typography({
     'Segoe UI Symbol',
   ],
   bodyFontFamily: [
+    'Asap',
     '-apple-system',
     'BlinkMacSystemFont',
     'Segoe UI',
