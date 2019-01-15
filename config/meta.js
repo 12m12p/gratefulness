@@ -1,17 +1,17 @@
 module.exports = {
-  siteUrl: `https://www.example.com`,
-  siteTitle: `Gatsby Starter Styled`,
-  siteTitleAlt: `Gatsby Starter Styled`,
-  siteTitleShort: `Gatsby Styled`,
-  siteDescription: `Kick off your next, great Gatsby project with this starter.`,
+  siteUrl: `https://romantic-swirles-a204aa.netlify.com/`,
+  siteTitle: `Gratefulness — 12m12p`,
+  siteTitleAlt: `Gratefulness`,
+  siteTitleShort: `Gratefulness`,
+  siteDescription: `Count what makes you happy.`,
   manifest: {
-    themeColor: `#253688`,
-    backgroundColor: `#253688`,
+    themeColor: `#D6DCE8`,
+    backgroundColor: `#D6DCE8`,
   },
   googleAnalyticsId: `UA-XXXXX`,
-  facebook: `Your optional Facebook App ID`,
-  twitter: `Your Twitter username`,
+  facebook: ``,
+  twitter: ``,
   schema: {
-    author: `Jane Doe`,
+    author: ``,
   },
 }
